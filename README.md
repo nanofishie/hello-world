@@ -1,2 +1,3 @@
 # hello-world
-GitHub Guides
+
+I like to solve problems and play fetch with the ninja doggo.
